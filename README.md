@@ -1,7 +1,12 @@
 ### Hi there. I am Jam.👋
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chun-hunag)](https://github.com/chun-hunag/github-readme-stats)
 
+
+## More Info
+---
+[![linkedin](assets/icon/linkedin.png)](https://www.linkedin.com/in/%E4%BF%8A%E7%91%9D-%E9%BB%83-554b02120/)
 <!--
 **chun-hunag/chun-hunag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
